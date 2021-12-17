@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -71,15 +71,15 @@ section {
   padding: 60px;
 }
 
-/* Hero Style Start*/
+/* Hero Style Start */
 .hero {
-  background-image: url("../images/hero-bg.jpeg");
+  background-image: url('../images/hero-bg.jpg');
   height: 600px;
   background-size: cover;
   background-position: center;
   position: relative;
 }
-/* Hero Style End*/
+/* Hero Style End */
 
 .hero-form {
   border: 3px solid #024e76;
@@ -227,7 +227,7 @@ section {
   text-align: right;
 }
 
-/* REACH OUT STYLES START*/
+/* REACH OUT STYLES START */
 .contact {
   text-align: center;
   background: #024e76;
@@ -269,4 +269,3 @@ section {
 }
 
 /* REACH OUT STYLES END */
-
