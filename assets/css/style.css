@@ -65,7 +65,7 @@ header nav ul li a {
 
 /* FOOTER STYLES START */
 footer {
-  background: --var(--primary-color);
+  background: var(--primary-color);
   padding: 40px 35px;
   display: flex;
   justify-content: space-between;
