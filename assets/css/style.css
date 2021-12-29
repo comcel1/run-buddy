@@ -326,7 +326,7 @@ section {
 .trainer {
   margin: 20px;
   flex: 1;
-  background: var(--secondary-color);
+  background: var(--secondary-color); 
   color: var(--primary-color);
 }
 
